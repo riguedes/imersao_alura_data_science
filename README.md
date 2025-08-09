@@ -73,8 +73,8 @@ streamlit run app.py
 
 ```
 ├── app.py                # Código do dashboard Streamlit
-├── analise_dados.ipynb   # Análises exploratórias no Colab
-├── dados.csv             # Base de dados utilizada
+├── Data_Analytics.ipynb   # Análises exploratórias no Colab
+├── dados-imersao-final.csv             # Base de dados utilizada
 ├── requirements.txt      # Bibliotecas necessárias
 └── README.md             # Documentação do projeto
 ```
