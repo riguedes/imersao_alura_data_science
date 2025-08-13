@@ -1,6 +1,6 @@
 # 📊 Imersão Alura: Projeto de Ciência de Dados
 
-Projeto desenvolvido durante a **Imersão Alura de Data Science**, com o objetivo de explorar, tratar e visualizar dados. Foram aplicadas técnicas de limpeza, análise exploratória e visualização de dados, além da criação de um dashboard interativo para facilitar a interpretação dos resultados.
+Projeto desenvolvido durante a **Imersão Alura de Data Science**, com o objetivo de explorar, tratar e visualizar dados. Foram aplicadas técnicas de limpeza, análise exploratória e visualização de dados, além da criação de um dashboard interativo para facilitar a interpretação dos resultados. O resultado final pode ser conferido em: https://imersaoaluradatasciencerianguedes.streamlit.app/
 
 ## 🚀 Objetivos do Projeto
 
